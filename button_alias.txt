@@ -1,0 +1,107 @@
+Stick 1
+    0. ←
+    1. →
+    2. ↑
+    3. ↓
+
+Stick 2
+    4. ←
+    5. →
+    6. ↑
+    7. ↓
+
+8. Axis 5 (<0)
+9. Axis 5 (>0)
+10. Axis 6 (<0)
+11. Axis 6 (>0)
+
+12. Slider 1 (<0)
+13. Slider 1 (>0)
+14. Slider 2 (<0)
+15. Slider 2 (>0)
+
+POV1
+    16. ↑
+    17. ↗
+    18. →
+    19. ↘
+    20. ↓
+    21. ↙
+    22. ←
+    23. ↖
+
+POV2
+    24. ↑
+    25. ↗
+    26. →
+    27. ↘
+    28. ↓
+    29. ↙
+    30. ←
+    31. ↖
+
+POV3
+    32. ↑
+    33. ↗
+    34. →
+    35. ↘
+    36. ↓
+    37. ↙
+    38. ←
+    39. ↖
+
+POV4
+    40. ↑
+    41. ↗
+    42. →
+    43. ↘
+    44. ↓
+    45. ↙
+    46. ←
+    47. ↖
+
+Stick 1 
+    48. ↗
+    49. ↖
+    50. ↙
+    51. ↘
+
+Stick 2
+    52. ↗
+    53. ↖
+    54. ↙
+    55. ↘
+
+56. Button01  ## Square
+57. Button02  ## Cross
+58. Button03  ## Circle
+59. Button04  ## Triangle
+60. Button05  ## L1
+61. Button06  ## R1
+62. Button07  ## L2
+63. Button08  ## R2
+64. Button09  ## Select
+65. Button10  ## Start
+66. Button11  ## L-Stick
+67. Button12  ## R-Stick
+68. Button13  ## PS Key
+69. Button14  ## TouchPad
+70. Button15  ## Select+Square  
+71. Button16  ## Select+X       
+72. Button17  ## Select+Circle  
+73. Button18  ## Select+Triangle
+74. Button19  ## Start+Down     
+75. Button20  ## Start+Left     
+76. Button21  ## Start+Right       
+77. Button22  ## Start+Up       
+78. Button23  ## L3+Square      
+79. Button24  ## L3+X           
+80. Button25  ## L3+Circle      
+81. Button26  ## L3+Triangle    
+82. Button27  ## R3+Down        
+83. Button28  ## R3+Left        
+84. Button29  ## R3+Right       
+85. Button30  ## R3+Up    
+
+This can go all the way to Button128!
+The numbered list is used as index reference, see ButtonAlias section of the config.

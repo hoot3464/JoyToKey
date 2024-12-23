@@ -1,0 +1,131 @@
+﻿These templates serve only to help the user. They are used to display the buttons in the UI.
+I am using one custom template for PS5 controller, and I renamed buttons for the regular PS5 controller.
+If you want to use my custom template, either copy and paste the block to the end of your templates.json,
+or replace yours with this one. You'll need to remove these comments and rename the file to templates.json
+
+{
+  "templates": [
+    {
+      "id": "DEFAULT",
+      "name": "Default",
+      "buttons": [
+      ]
+    },
+    {
+      "id": "XBOX",
+      "name": "Xbox controller",
+      "buttons": [
+        "A",
+        "B",
+        "X",
+        "Y",
+        "LB",
+        "RB",
+        "View",
+        "Menu",
+        "L-Stick",
+        "R-Stick",
+        "LT",
+        "RT",
+        "XBOX"
+      ]
+    },
+    {
+      "id": "PS4",
+      "name": "PS4 controller",
+      "buttons": [
+        " ",
+        "~",
+        "Z",
+        "¢",
+        "L1",
+        "R1",
+        "L2",
+        "R2",
+        "Share",
+        "Options",
+        "L3",
+        "R3",
+        "PS",
+        "TouchPad"
+      ]
+    },
+    {
+      "id": "PS5",
+      "name": "PS5 controller",
+      "buttons": [
+        "Square",
+        "Cross",
+        "Circle",
+        "Triangle",
+        "L1",
+        "R1",
+        "L2",
+        "R2",
+        "Select",
+        "Start",
+        "L-Stick",
+        "R-Stick",
+        "PS",
+        "TouchPad",
+        "Mute"
+      ]
+    },
+    {
+      "id": "SWITCH",
+      "name": "Switch controller",
+      "buttons": [
+        "B",
+        "A",
+        "Y",
+        "X",
+        "L",
+        "R",
+        "ZL",
+        "ZR",
+        "-",
+        "+",
+        "L-Stick",
+        "R-Stick",
+        "Home",
+        "Capture"
+      ]
+    },
+    {
+      "id": "{2646FE5D-E9EA-4367-B49C-8A109EC9D676}",
+      "name": "PS5 Extra",
+      "buttons": [
+        "Square",
+        "Cross",
+        "Circle",
+        "Triangle",
+        "L1",
+        "R1",
+        "L2",
+        "R2",
+        "Select",
+        "Start",
+        "L-Stick",
+        "R-Stick",
+        "PS",
+        "TouchPad",
+        "Sel+Square",
+        "Sel+X",
+        "Sel+O",
+        "Sel+T",
+        "Start+Down",
+        "Start+Left",
+        "Start+Right",
+        "Start+Up",
+        "L3+Square",
+        "L3+X",
+        "L3+O",
+        "L3+T",
+        "R3+Down",
+        "R3+Left",
+        "R3+Right",
+        "R3+Up"
+      ]
+    }
+  ]
+}
